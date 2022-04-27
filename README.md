@@ -31,7 +31,6 @@
 
 	* [Blockchain Oracles, Explained](https://cointelegraph.com/explained/blockchain-oracles-explained)
 	* [ABI](https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI)
-	* [Keccak256](https://www.slideshare.net/RajeevVerma14/keccakpptx)
 	* [A Closer Look At Ethereum Signatures](https://hackernoon.com/a-closer-look-at-ethereum-signatures-5784c14abecc)
 	* [Web 3.0 Explained](https://www.youtube.com/watch?v=aPVmd7SyKfQ)
 	* [Random numbers](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract)
@@ -80,7 +79,6 @@
 	* [Matthew Di Ferrante](https://medium.com/@matthewdif) – Founder @ ZK Labs
 	* [Philippe Castonguay](https://medium.com/@PhABC)
 	* [Elena Dimitrova](https://blog.colony.io/@elena_di) – Dev at colony.io
-	* [Aragon techblog](https://blog.aragon.org/tag/development/)
 	* [Eric Elliot's blog about blockchain](https://medium.com/the-challenge)
 
 
